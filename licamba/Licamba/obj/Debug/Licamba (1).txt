@@ -1,0 +1,8 @@
+C:\Users\PABLO AGUILAR\Documents\trabajos camila\LicambaCamilaPachon\LicambaCamilaPachon\bin\Debug\LicambaCamilaPachon.exe.config
+C:\Users\PABLO AGUILAR\Documents\trabajos camila\LicambaCamilaPachon\LicambaCamilaPachon\bin\Debug\LicambaCamilaPachon.exe
+C:\Users\PABLO AGUILAR\Documents\trabajos camila\LicambaCamilaPachon\LicambaCamilaPachon\bin\Debug\LicambaCamilaPachon.pdb
+C:\Users\PABLO AGUILAR\Documents\trabajos camila\LicambaCamilaPachon\LicambaCamilaPachon\obj\Debug\LicambaCamilaPachon.csprojResolveAssemblyReference.cache
+C:\Users\PABLO AGUILAR\Documents\trabajos camila\LicambaCamilaPachon\LicambaCamilaPachon\obj\Debug\LicambaCamilaPachon.exe
+C:\Users\PABLO AGUILAR\Documents\trabajos camila\LicambaCamilaPachon\LicambaCamilaPachon\obj\Debug\LicambaCamilaPachon.pdb
+C:\Users\PABLO AGUILAR\Documents\trabajos camila\LicambaCamilaPachon\LicambaCamilaPachon\obj\Debug\LicambaCamilaPachon.FormLogin.resources
+C:\Users\PABLO AGUILAR\Documents\trabajos camila\LicambaCamilaPachon\LicambaCamilaPachon\obj\Debug\LicambaCamilaPachon.csproj.GenerateResource.Cache
